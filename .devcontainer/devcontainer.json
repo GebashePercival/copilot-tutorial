@@ -1,0 +1,10 @@
+{
+  "name": "Codespace for github copilot tut",
+  "customizations":{
+    "vscode":{
+      "extensions":[
+        "Github.copilot"
+      ]
+    }
+  }
+}
